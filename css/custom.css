@@ -1,0 +1,261 @@
+@media (max-width: 1499px) {
+	.slider-content h1 {
+    font-size: 50px;
+    line-height: 56px;
+	}.quality h6 {
+    padding-left: 22%;
+}.list-from h2 {
+    line-height: 29px;
+    padding-bottom: 10px;
+}.leave-comment.style-1 input[type="email"] {
+    width: 370px;
+}.whychooseus {
+    padding-bottom: 60px;
+    padding-top: 0;
+}
+}
+
+@media (max-width: 1399px) {
+.heading-section {
+    gap: 9px;
+}h3.split-text.effect-blur-fade {
+    font-size: 36px;
+    line-height: 46px;
+}.mb_48 {
+    margin-bottom: 20px;
+}.accordion-item .heading h6.title {
+    font-size: 16px;
+    line-height: 26px;
+}.section-faqs-1 .accordion-item:not(:last-child) {
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+}.section-faqs-1 .text-body-1 {
+    font-size: 15px;
+    line-height: 25px;
+}p {
+    font-size: 15px;
+    line-height: 25px;
+}.servicecontent-wrapper p {
+    margin-bottom: 15px;
+}.servicecontent-wrapper {
+    padding: 0px 16px;
+}    .text-headding h2 {
+        font-size: 30px;
+        line-height: 38px;
+    }.ceo-wrapper {
+    padding: 20px;
+}    .slider-content h1 {
+        font-size: 44px;
+        line-height: 50px;
+    }.slider-content p {
+    top: 50%;
+	}.page-title.style-3 {
+    bottom: 4%;
+	}.flat-tab-form .nav-tab-form.style-1 .nav-link-item {
+    font-size: 14px;
+    padding: 10px 30px;
+}.point-content h6 {
+    font-size: 15px;
+    line-height: 25px;
+    padding-left: 19%;
+}.point-content h6::before {
+    width: 30px;
+}.point-content h2 {
+    font-size: 25px;
+    line-height: 30px;
+}.trusted-partner .content p {
+    font-size: 16px;
+    line-height: 26px;
+}.property-list .property-list-wrapper .property-info h2 {
+    font-size: 18px;
+    width: 85%;
+    padding-left: 4%;
+}
+
+}
+
+@media (max-width: 599px) {
+#menu-mobile-menu .sub-mobile .menu-item > a {
+    font-size: 15px;
+}.sec-pad {
+    padding: 30px 0px;
+}.about.us-home h6 {
+    font-size: 24px;
+    line-height: 35px;
+    width: 100%;
+    padding-top: 0;
+}.two-btns a.normal-btn {
+    font-size: 14px;
+    text-align: center;
+    line-height: 15px;
+}.two-btns {
+    padding: 25px 0px;
+}.about.us-home p {
+    font-size: 18px;
+}.point-wrapper {
+    height: 220px;
+    margin-bottom: 15px;
+}.why-wrapper {
+    width: 100%;
+	padding-left: 0%;
+    padding-top: 2%;
+}    .quality-wrapper {
+        width: 100%;
+    padding: 20px;
+}.quote-fun-facts-box .col-lg-6:nth-child(2) .box {
+   padding-left: 20px;
+    padding-bottom: 25px;
+}.quote-fun-facts-box .col-lg-6:nth-child(1) .box {
+    padding-left: 30px;
+    padding-bottom: 25px;
+}.quote-fun-facts-box .col-lg-6:nth-child(3) .box {
+    padding-top: 16px;
+    padding-left: 20px;
+    padding-right: 0;
+}.quote-fun-facts-box .col-lg-6:nth-child(4) .box {
+    padding-top: 15px;
+    padding-left: 35px;
+}    .text-headding h2 {
+        font-size: 25px;
+        line-height: 35px;
+    }.property-list {
+    padding-top: 30px;
+}.list-wrap {
+    flex-direction: column;
+}.property-list-wrapper {
+    width: 100%;
+    margin-bottom: 10px;
+}.faq-home-row {
+    padding-top: 0;
+}.heading .text-title {
+    font-size: 16px;
+    line-height: 24px;
+}    .footer {
+        padding-top: 30px;
+    }.footer-heading.footer-heading-mobile {
+    padding-bottom: 10px;
+	    font-size: 21px;
+    line-height: 31px;
+	}    .footer .footer-body .row {
+        row-gap: 25px;
+    }.leave-comment.style-1 h6 {
+    font-size: 21px;
+    line-height: 27px;
+    margin-bottom: 10px;
+}.leave-comment.style-1 h6 br {
+    display:none;
+}.footer .footer-bottom {
+    padding: 0;
+}.footer .footer-body {
+    padding-bottom: 0;
+    border-bottom: none;
+}    .footer .footer-heading-mobile::before,  .footer .footer-heading-mobile::after {
+        background-color: #a5a2a2;
+}.mobile-nav-wrap .mb-body .support .text-need {
+    color: #115585;
+    font-size: 17px;
+	border-bottom:none;
+}.mobile-nav-wrap .mb-body .support .mb-info li {
+    color: rgb(4 118 199);
+}.mobile-nav-wrap .social a {
+    font-size: 19px;
+}.page-title.style-default .thumbs img {
+    min-height: 210px;
+}    .testimonial-item.style-1 {
+        padding: 30px 0;
+    }.heading a.h3.link.text_primary-color {
+    font-size: 28px;
+    line-height: 37px;
+}    .testimonial-item.style-1 .row {
+        gap: 0px;
+    }.section-testimonials p.desc{
+    font-size: 18px;
+    line-height: 28px;
+}.CTA-strip .heading-pnel h2 {
+    margin-bottom: 15px !important;
+    line-height: 39px;
+    font-size: 30px;
+}.list-us-sec .list-from {
+    padding: 25px;
+}.box-contact {
+    width: 100%;
+    margin-bottom: 15px;
+}.form-contact .tf-grid-layout {
+    gap: 10px 15px;
+}.service-inner {
+    padding: 30px 10px;
+}.service-wrapper-sec img {
+    border-radius: 0;
+    padding-bottom: 15px;
+}    .servicecontent-wrapper {
+        padding: 0;
+        padding-bottom: 20px;
+}.service-wrapper-sec{
+		 border-radius: 0;
+}    h3.split-text.effect-blur-fade {
+        font-size: 27px;
+        line-height: 35px;
+    }.accordion-item .heading .icon {
+    font-size: 15px;
+	}.counter-sec {
+    padding: 30px 10px;
+}.testimonial-home-wrapper p {
+    width: 95%;
+	  padding-bottom: 0px;
+}
+.counter-number h2.odometer {
+    font-size: 45px;
+}.counter-item.style-default.box p {
+    font-size: 14px;
+}.container-largee {
+    padding: 0 3%;
+}.whychooseus .text-headding h2 {
+    margin-bottom: 8px;
+}.desk{
+	display:none  !important;
+}.mob{
+	display:block !important;
+}.page-title.style-3 {
+    position: relative;
+}    .slider-content h1 {
+        font-size: 37px;
+        line-height: 47px;
+        top: 22%;
+        width: 85%;
+        right: 0;
+        left: 7%;
+    }    .whychooseus {
+        padding-bottom: 30px;
+        padding-top: 0;
+    } .text-headding h2 br{
+		display:none;
+	}.footer-bottom-sec p.text-center {
+    line-height: 21px;
+}
+}
+
+
+@media (max-width: 399px) {
+.header-right a.link.text-button, .menu-callsec{
+	display:none;
+}    .slider-content h1 {
+        font-size: 32px;
+        line-height: 40px;
+        top: 25%;
+}    .quote-fun-facts-box .col-lg-6:nth-child(1) .box {
+        padding-left: 20px;
+}    .counter-item.style-default.box p {
+        font-size: 13px;
+    }    .counter-number h2.odometer {
+        font-size: 40px;
+    }.quote-fun-facts-box {
+    padding-top: 2%;
+}.mobile-button .burger span {
+    background-color: #fdfbff;
+}.header.header-sticky.is-sticky .mobile-button .burger span {
+    background-color: black;
+}    .about.us-home h6 {
+        font-size: 20px;
+        line-height: 30px;
+}
+}
