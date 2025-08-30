@@ -196,7 +196,14 @@
 	<!-- End header -->
 	<section class="slider-section">
 		<div class="slider-img"> 
-			<img src="img/slider/1.jpg">
+		<div class="video">
+			<video autoplay playsinline loop muted class="bgvid desk" width="auto">
+				<source src="img/slider/desk.mp4"  type="video/mp4"> 
+			</video>
+			<video autoplay playsinline loop muted class="bgvid mob" width="auto">
+				<source src="img/slider/mob.mp4"  type="video/mp4"> 
+			</video>
+		
 		</div>
 		<div class="slider-content">
 			<div class="container">
@@ -1229,5 +1236,6 @@ $(".scrolling-effect").owlCarousel({
 });
 </script>
 </body>
+
 
 </html>
